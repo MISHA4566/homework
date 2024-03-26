@@ -1,0 +1,9 @@
+.venv
+env/
+venv/
+Env/
+env.bak/
+venv.bak/
+
+#PyCharm
+.idea/
